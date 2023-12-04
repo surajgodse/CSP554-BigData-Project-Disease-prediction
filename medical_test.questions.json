@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "654a92b2c15d27ccea0256e4"
+  },
+  "id": 1,
+  "question": "Do you have Abdominal pain?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a92b2c15d27ccea0256e5"
+  },
+  "id": 2,
+  "question": "Are you suffering from Diarrhea, nausea and vomiting?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654a92b2c15d27ccea0256e6"
+  },
+  "id": 3,
+  "question": "Do you have High fever?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256e7"
+  },
+  "id": 1,
+  "question": "Do you have Abdominal pain?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256e8"
+  },
+  "id": 2,
+  "question": "Are you suffering from Diarrhea, nausea and vomiting?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256e9"
+  },
+  "id": 3,
+  "question": "Do you have High fever?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256ea"
+  },
+  "id": 4,
+  "question": "Do you have a sensation of cold with shivering?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256eb"
+  },
+  "id": 5,
+  "question": "Are you suffering from fever, headaches, and vomiting",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256ec"
+  },
+  "id": 6,
+  "question": "Do you have sweats, followed by a return to normal temperature, with tiredness?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256ed"
+  },
+  "id": 7,
+  "question": "Do you have impaired consciousness?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256ee"
+  },
+  "id": 8,
+  "question": "Do you have deep breathing and respiratory distress?",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256ef"
+  },
+  "id": 9,
+  "question": "Do you have Fatigue or tiredness, which can be extreme?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256f0"
+  },
+  "id": 10,
+  "question": "Are you suffering from Runny or stuffy nose?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256f1"
+  },
+  "id": 11,
+  "question": "Do you have Diarrhea and vomiting occasionally, but more commonly seen than with other strains of flu?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256f2"
+  },
+  "id": 12,
+  "question": "Are you suffering from Fast breathing or difficulty breathing?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654a9355c15d27ccea0256f3"
+  },
+  "id": 13,
+  "question": "Do you have Rash with a fever?",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654aa053c15d27ccea0256f8"
+  },
+  "id": 14,
+  "question": "Is there a Yellow color inside the mouth?",
+  "test_id": "4"
+},
+{
+  "_id": {
+    "$oid": "6561ee7d8194a68fd201a5a8"
+  },
+  "id": 15,
+  "question": "Is there a Yellow color inside the mouth?",
+  "test_id": "5"
+},
+{
+  "_id": {
+    "$oid": "6561efd08194a68fd201a5aa"
+  },
+  "id": 16,
+  "question": "is there fever for three days?",
+  "test_id": "5"
+},
+{
+  "_id": {
+    "$oid": "6561f20d8194a68fd201a5ac"
+  },
+  "id": 17,
+  "question": "is there fever for three days?",
+  "test_id": "5"
+}]

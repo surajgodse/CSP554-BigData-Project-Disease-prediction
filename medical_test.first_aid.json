@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "654aa18cc15d27ccea0256f9"
+  },
+  "id": 1,
+  "description": "Clear any sources of stagnating water, indoors and outdoors, as they can act as mosquito breeding grounds. Since mosquitoes are night feeders, stay away from danger zones – particularly fields, forests and swamps – from dusk to dawn to avoid being bitten. Wear pants and long-sleeved clothing that are light-colored and comfortable as mosquitoes can bite through tight synthetic clothing and are attracted to dark colors.",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654aa18cc15d27ccea0256fa"
+  },
+  "id": 2,
+  "description": "The World Health Organization (WHO) recommends artemisinin-based combination therapy (ACT) to treat uncomplicated malaria.",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654aa18cc15d27ccea0256fb"
+  },
+  "id": 3,
+  "description": "There are a number of options that travelers can take to prevent malaria, including antimalarial medication, using anti-mosquito sprays or lotions, and sleeping under a permethrin-treated bed net.",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654aa18cc15d27ccea0256fc"
+  },
+  "id": 4,
+  "description": "Drink plenty of liquids. Choose water, juice, and warm soups to prevent dehydration.",
+  "test_id": "1"
+},
+{
+  "_id": {
+    "$oid": "654aa18cc15d27ccea0256fd"
+  },
+  "id": 5,
+  "description": "Rest. Get more sleep to help your immune system fight infection.",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654aa18cc15d27ccea0256fe"
+  },
+  "id": 6,
+  "description": "Consider pain relievers. Use an over-the-counter pain reliever, such as acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others), cautiously. Also, use caution when giving aspirin to children or teenagers.",
+  "test_id": "2"
+},
+{
+  "_id": {
+    "$oid": "654aa2d7c15d27ccea0256ff"
+  },
+  "id": 7,
+  "description": "Natural sunlight may help cure jaundice in adults and infants both",
+  "test_id": "4"
+},
+{
+  "_id": {
+    "$oid": "6561f5558194a68fd201a5ad"
+  },
+  "id": 8,
+  "description": "Drink hot water.",
+  "test_id": "5"
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "654aa7dac15d27ccea025708"
+  },
+  "p_id": 37,
+  "p_name": "dipak",
+  "p_email": "p1@gmail.com",
+  "p_phone": "21321321321321",
+  "p_password": "$2y$10$ZUDTwTMCuBKO7RQLqOoFNOWL03KKtZtDXa3CHI3DfYazc.zd.O6Gy",
+  "p_address": "dewqrweqr",
+  "p_username": "dipak"
+},
+{
+  "_id": {
+    "$oid": "654aa7dac15d27ccea025709"
+  },
+  "p_id": 38,
+  "p_name": "Dipak",
+  "p_email": "test_patient@gmail.com",
+  "p_phone": "982191231",
+  "p_password": "$2y$10$FdB5kVlKMrOtl/8KANEM2.0Uezjg1QjonxwxwXeBkrrrJyOiwoiwG",
+  "p_address": "test_patient@gmail.com",
+  "p_username": "patient1"
+},
+{
+  "_id": {
+    "$oid": "654aaa74c15d27ccea02570a"
+  },
+  "p_id": 39,
+  "p_name": "Rohit rane",
+  "p_email": "kunalpatil3303@gmail.com",
+  "p_phone": "8765657567",
+  "p_password": "$2y$10$2KK9Xe1mmEV7oLKxQ/UqJ.C46T7spFNMNAPANkaWrBNmTaRG4Jg/G",
+  "p_address": "A-308, Laxmi Nivas, M G Road, Dadar, Mumbai",
+  "p_username": "rohit"
+},
+{
+  "_id": {
+    "$oid": "6561fe528194a68fd201a5b0"
+  },
+  "p_id": 40,
+  "p_name": "Rohit rane",
+  "p_email": "kunalpatil3303@gmail.com",
+  "p_phone": "982197343",
+  "p_password": "$2y$10$WW6jbUZBK5NTdWoqFpjOuO8outy0rWFAM68VM/AgZt4nZUnsBX732",
+  "p_address": "A-308, Laxmi Nivas, M G Road, Dadar, Mumbai",
+  "p_username": "dipak1"
+}]
